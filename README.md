@@ -1,2 +1,2 @@
-# e-commerce
-This is my php project
+# E-Commerce
+This is my php native project
